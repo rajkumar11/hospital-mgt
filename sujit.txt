@@ -6,3 +6,4 @@ printf("hospital management system");
 }
 getch();
 }
+after pushing
